@@ -1,9 +1,11 @@
-### All countries to max power and all possible channels
+#### Changes in this fork
 
----
+- All countries to max power and all possible channels
 
- wireless-regdb
-================
+-----
+
+## wireless-regdb
+
 <https://wireless.wiki.kernel.org/en/developers/regulatory/wireless-regdb>
 
 This repository contains the plain text version of the regulatory
@@ -18,8 +20,7 @@ Also included are the tools used to compile and sign the regulatory.bin
 file as well as a MoinMoin macro used for viewing the database.
 
 
- TECHNICAL INFORMATION
-=======================
+## TECHNICAL INFORMATION
 
 The regulatory information in `db.txt' is stored in a human-readable
 format which can be read using the `dbparse.py' python module. This
