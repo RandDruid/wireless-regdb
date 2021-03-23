@@ -1,4 +1,4 @@
-### All countries to amx power and all possible channels
+### All countries to max power and all possible channels
 
 ---
 
