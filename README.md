@@ -4,6 +4,8 @@
 
 ## Usage
 
+You will need M2Crypto Python package ("python-m2crypto" on Debian)
+
 Clone, make, sudo make install, reboot, enjoy.
 
 -----
